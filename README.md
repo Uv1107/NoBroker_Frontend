@@ -1,12 +1,3 @@
-// Group 20
-// Shobhit Gupta S20200010195
-// Lakshya Boob S20200010109
-// Utkarsh Verma S20200010215
-// Sakamuri Kodanda Rama Phaneeendra S20200010184
-// Ram Gopal Zampani S20200010239
-
-
-
 Site Deployed
 https://no-broker-eeut.onrender.com  --f
 https://no-broker-api.onrender.com   --b
